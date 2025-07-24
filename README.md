@@ -1,3 +1,4 @@
+## Summary
 # Elements of AI - Building AI
 
 Course website: https://buildingai.elementsofai.com

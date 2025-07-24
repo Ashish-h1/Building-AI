@@ -1,5 +1,5 @@
 ## Summary
-# TITLE OF PROJECT 
+# Building AI
 
 ## Background: 
 What is the problem your idea will solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?

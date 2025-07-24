@@ -1,4 +1,4 @@
-# Project Title
+# Elements of AI-Building AI
 
 Final project for the Building AI course
 
